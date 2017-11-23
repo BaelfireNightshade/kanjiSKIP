@@ -6,11 +6,13 @@ This project is to provide an easy to parse list of kanji that then can be integ
 
 It consists of files, each containing a list of 200 kanji and their SKIP codes in the following format
 
+```
 ...
 <kanji><tab><skip_code>
 <kanji><tab><skip_code>
 <kanji><tab><skip_code>
 ...
+```
 
 Where skip_code is in the format #-#-#:
 
